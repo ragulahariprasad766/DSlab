@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("Welcome to CSE DS lab");
+	printf("Welcome to cse ds lab");
 	return 0;
 }
